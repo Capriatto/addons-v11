@@ -1,0 +1,850 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* clinica_doctor_data
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-04 09:33+0000\n"
+"PO-Revision-Date: 2018-12-04 09:33+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_kanban_view
+msgid ", Age:"
+msgstr ", Edad:"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,blood_type:0
+msgid "AB+"
+msgstr "AB+"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,blood_type:0
+msgid "AB-"
+msgstr "AB-"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,document_type:0
+msgid "AS - Unidentified Adult"
+msgstr "AS - Unidentified Adult"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Accompany Person's Details"
+msgstr "Datos del Responsable y el Acompañante"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_accompany_phone
+msgid "Accompany Person's Phone Number"
+msgstr "Número de Teléfono de la Persona Acompañante"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_accompany_relationship
+msgid "Accompany Person's Relationship"
+msgstr "Acompañar la relación de la persona"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Address"
+msgstr "Dirección"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_birth_address
+msgid "Address of Birth Place"
+msgstr "Dirección del lugar de nacimiento"
+
+#. module: clinica_doctor_data
+#: model:ir.actions.act_window,name:clinica_doctor_data.action_doctor_administrative_data
+#: model:ir.ui.menu,name:clinica_doctor_data.menu_doctor_administrative_data
+msgid "Administrative Data"
+msgstr "Administrative Data"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Administrative Data Form"
+msgstr "Administrative Data Form"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_age
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Age"
+msgstr "Edad"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_assurance_partner_id
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_assurance_partner_id
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_assurance_plan_filter
+msgid "Assurance Company"
+msgstr "Aseguradora"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.menu,name:clinica_doctor_data.menu_assurance_details
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Assurance Details"
+msgstr "Detalles de Aseguramiento"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.menu,name:clinica_doctor_data.menu_assurance_plan
+msgid "Assurance Plan"
+msgstr "Assurance Plan"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.assurance_plan_form
+msgid "Assurance Plan Form"
+msgstr "Assurance Plan Form"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.assurance_plan_tree
+msgid "Assurance Plan Tree"
+msgstr "Assurance Plan Tree"
+
+#. module: clinica_doctor_data
+#: model:ir.actions.act_window,name:clinica_doctor_data.action_assurance_plan
+msgid "Assurance Plans"
+msgstr "Planes de Aseguramiento"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_assurance_plan_id
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Assurer Plans"
+msgstr "Planes Assurer"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,accompany_relationship:0
+#: selection:doctor.administrative.data,responsible_relationship:0
+msgid "Aunt"
+msgstr "Tia"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_beliefs
+msgid "Beliefs"
+msgstr "Creencias"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_birth_date
+msgid "Birth Date"
+msgstr "Fecha de Nacimiento"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_kanban_view
+msgid "Birth Date:"
+msgstr "Fecha de Nacimiento:"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_blood_type
+msgid "Blood Type"
+msgstr "Tipo de Sangre"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_kanban_view
+msgid "Blood Type:"
+msgstr "Blood Type:"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,document_type:0
+msgid "CC - ID Document"
+msgstr "CC - ID Document"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,document_type:0
+msgid "CE - Aliens Certificate"
+msgstr "CE - Aliens Certificate"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,civil_state:0
+msgid "Casada/o"
+msgstr "Casada/o"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_civil_state
+msgid "Civil Status"
+msgstr "Estado Civil"
+
+#. module: clinica_doctor_data
+#: model:ir.actions.act_window,help:clinica_doctor_data.action_doctor_administrative_data
+msgid "Click to create doctor datas."
+msgstr "Click to create doctor datas."
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation_code
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_doctor_patient_occupation_filter
+msgid "Code"
+msgstr "Código"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Contact Information"
+msgstr "Datos de Contacto"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,user_type:0
+msgid "Contributivo"
+msgstr "Contributivo"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Country"
+msgstr "País"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_birth_country_id
+msgid "Country of Birth"
+msgstr "País de nacimiento"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_create_uid
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_create_uid
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation_create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_create_date
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_create_date
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation_create_date
+msgid "Created on"
+msgstr "Creado"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,age_meassure_unit:0
+msgid "Days"
+msgstr "Días"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Department"
+msgstr "Department"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_birth_department_id
+msgid "Department of Birth Place"
+msgstr "Departamento de nacimiento"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation_name
+msgid "Description"
+msgstr "Descripción"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_display_name
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_display_name
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation_display_name
+msgid "Display Name"
+msgstr "Nombre Público"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Districts/Localties/Areas"
+msgstr "Comunas"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_birth_district
+msgid "Districts/localties/areas of Birth Place"
+msgstr "Comunas de nacimiento"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.menu,name:clinica_doctor_data.menu_doctor_details
+msgid "Doctor"
+msgstr "Doctor"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_tree
+msgid "Doctor Administrative Data Tree"
+msgstr "Doctor Administrative Data Tree"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,primary_payer:0
+msgid "EPS"
+msgstr "EPS"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_email
+msgid "Email"
+msgstr "Correo electrónico"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,accompany_relationship:0
+#: selection:doctor.administrative.data,responsible_relationship:0
+msgid "Father"
+msgstr "Padre"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_father_address
+msgid "Father's Address"
+msgstr "Dirección del padre"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Father's Details"
+msgstr "Detalles del Padre"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_father_name
+msgid "Father's Name"
+msgstr "Nombre del Padre"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_father_occupation
+msgid "Father's Occupation"
+msgstr "Trabajo del Ocupación"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_father_phone
+msgid "Father's Phone Number"
+msgstr "Número de Teléfono del Padre"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,gender:0
+msgid "Female"
+msgstr "Female"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_first_last_name
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "First Last Name"
+msgstr "Primer Apellido"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_first_name
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "First Name"
+msgstr "Primer Nombre"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,accompany_relationship:0
+#: selection:doctor.administrative.data,responsible_relationship:0
+msgid "Friend"
+msgstr "Amigo/a"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_gender
+msgid "Gender"
+msgstr "Género"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_kanban_view
+msgid "Gender:"
+msgstr "Gender:"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,accompany_relationship:0
+#: selection:doctor.administrative.data,responsible_relationship:0
+msgid "Grand Father"
+msgstr "Abuelo"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,accompany_relationship:0
+#: selection:doctor.administrative.data,responsible_relationship:0
+msgid "Grand Mother"
+msgstr "Abuela"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_assurance_plan_filter
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_doctor_administrative_data_filter
+msgid "Group By"
+msgstr "Agrupar por"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_id
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_id
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation_id
+msgid "ID"
+msgstr "ID"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_image
+msgid "Image"
+msgstr "Imagen"
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:190
+#, python-format
+msgid "Invalid Email ! Please enter a valid email address."
+msgstr "Invalid Email ! Please enter a valid email address."
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:164
+#, python-format
+msgid "Invalid birth date!"
+msgstr "Invalid birth date!"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan___last_update
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data___last_update
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation___last_update
+msgid "Last Modified on"
+msgstr "Última Modificación el"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_write_uid
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_write_uid
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation_write_uid
+msgid "Last Updated by"
+msgstr "Actualizado por"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_write_date
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_write_date
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_patient_occupation_write_date
+msgid "Last Updated on"
+msgstr "Actualizado"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Location/City/Town"
+msgstr "Municipio"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_birth_city_id
+msgid "Location/City/Town of Birth"
+msgstr "Municipio de nacimiento"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,document_type:0
+msgid "MS - Unidentified Minor"
+msgstr "MS - Unidentified Minor"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,gender:0
+msgid "Male"
+msgstr "Male"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_image_medium
+msgid "Medium-sized image"
+msgstr "Imagen de tamaño mediano"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,help:clinica_doctor_data.field_doctor_administrative_data_image_medium
+msgid "Medium-sized image of this contact. It is automatically resized as a 128x128px image, with aspect ratio preserved. Use this field in form views or some kanban views."
+msgstr "Imagen mediana de este contacto. Se redimensiona automáticamente a 128x128 px, con el ratio de aspecto preservado. Se usa este campo en las vistas los formularios y en algunas vistas de kanban."
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_mobile
+msgid "Mobile Number"
+msgstr "Número de Celular"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,age_meassure_unit:0
+msgid "Months"
+msgstr "Meses"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,accompany_relationship:0
+#: selection:doctor.administrative.data,responsible_relationship:0
+msgid "Mother"
+msgstr "Madre"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_mother_address
+msgid "Mother's Address"
+msgstr "Dirección de la madre"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Mother's Details"
+msgstr "Detalles de la Madre"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_mother_name
+msgid "Mother's Name"
+msgstr "Nombre de la Madre"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_mother_occupation
+msgid "Mother's Occupation"
+msgstr "De la madre Ocupación"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_mother_phone
+msgid "Mother's Phone Number"
+msgstr "Número de Teléfono de la Madre"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_accompany_name
+msgid "Name of the companion"
+msgstr "Nombre del Acompañante"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Neighborhood"
+msgstr "Barrio"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_birth_neighborhood
+msgid "Neighborhood of Birth Place"
+msgstr "Barrio de nacimiento"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_name
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_doctor_administrative_data_filter
+msgid "Number ID"
+msgstr "Número de Identificación"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_numberid_integer
+msgid "Number ID for TI or CC Documents"
+msgstr "Number ID for TI or CC Documents"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_occupation
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Occupation"
+msgstr "Ocupación"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,accompany_relationship:0
+#: selection:doctor.administrative.data,responsible_relationship:0
+msgid "Other"
+msgstr "Otro Cual"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_other_accompany_relationship
+msgid "Other Accompany Person's Relationship"
+msgstr "Relación de otra persona acompañante"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_other_assurance_partner_id
+msgid "Other Assurance Company"
+msgstr "Otra Aseguradora"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_other_assurance_plan_id
+msgid "Other Assurer Plans"
+msgstr "Otros Planes Assurer"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Other Personal Information"
+msgstr "Otros Datos Personales"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Other Relationship"
+msgstr "Other Relationship"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_other_responsible_relationship
+msgid "Other Responsible Person's Relationship"
+msgstr "Other Responsible Person's Relationship"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,primary_payer:0
+msgid "Otra Aseguradora"
+msgstr "Otra Aseguradora"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,document_type:0
+msgid "PA - Passport"
+msgstr "PA - Passport"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,primary_payer:0
+msgid "Pago Mixto"
+msgstr "Pago Mixto"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.menu,name:clinica_doctor_data.menu_patient_details
+msgid "Patient Details"
+msgstr "Patient Details"
+
+#. module: clinica_doctor_data
+#: model:ir.actions.act_window,name:clinica_doctor_data.action_doctor_patient_occupation
+#: model:ir.ui.menu,name:clinica_doctor_data.menu_patient_profession
+msgid "Patient Profession"
+msgstr "Patient Profession"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_patient_occupation_form
+msgid "Patient Profession Form"
+msgstr "Patient Profession Form"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_patient_occupation_tree
+msgid "Patient Profession Tree"
+msgstr "Patient Profession Tree"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Phone"
+msgstr "Phone"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_phone
+msgid "Phone Number"
+msgstr "Número de Teléfono"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Place of Birth"
+msgstr "Lugar de Nacimiento"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Place of Residence"
+msgstr "Lugar de Residencia"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_name
+msgid "Plan"
+msgstr "Plan"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_assurance_plan_code
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_assurance_plan_filter
+msgid "Plan Code"
+msgstr "Plan Code"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_assurance_plan_filter
+msgid "Plans"
+msgstr "Planes"
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:196
+#, python-format
+msgid "Please enter non zero value for Number ID"
+msgstr "Please enter non zero value for Number ID"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_primary_payer
+msgid "Primary Payer"
+msgstr "Pagador Principal"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_profession_id
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_doctor_patient_occupation_filter
+msgid "Profession"
+msgstr "Profesión"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,document_type:0
+msgid "RC - Civil Registry"
+msgstr "RC - Civil Registry"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Relationship"
+msgstr "Parentesco"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_residence_address
+msgid "Residence Address"
+msgstr "Dirección de residencia"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_residence_country_id
+msgid "Residence Country"
+msgstr "País de Residencia"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_residence_department_id
+msgid "Residence Department"
+msgstr "Departamento de residencia"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_residence_district
+msgid "Residence Districts/localties/areas"
+msgstr "Residencia Comunas"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_residence_city_id
+msgid "Residence Location/City/Town"
+msgstr "Residencia municipio"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_residence_neighborhood
+msgid "Residence Neighborhood"
+msgstr "Residencia Barrio"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+msgid "Responsible Person's Details"
+msgstr "Datos de la Persona Responsable"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_responsible_name
+msgid "Responsible Person's Name"
+msgstr "Nombre del Responsable"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_responsible_phone
+msgid "Responsible Person's Phone Number"
+msgstr "Número de Teléfono de la Persona Responsable"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_responsible_relationship
+msgid "Responsible Person's Relationship"
+msgstr "Relación de la persona responsable"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_doctor_administrative_data_filter
+msgid "Search Administrative Data"
+msgstr "Search Administrative Data"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_assurance_plan_filter
+msgid "Search Assurancen Plans"
+msgstr "Buscar Planes Assurancen"
+
+#. module: clinica_doctor_data
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_doctor_patient_occupation_filter
+msgid "Search Patient Profession"
+msgstr "Search Patient Profession"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_second_last_name
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_tree
+msgid "Second Last Name"
+msgstr "Segundo Apellido"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_second_name
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_tree
+msgid "Second Name"
+msgstr "Segundo Nombre"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,civil_state:0
+msgid "Separada/o"
+msgstr "Separada/o"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_image_small
+msgid "Small-sized image"
+msgstr "Imagen de tamaño pequeño"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,help:clinica_doctor_data.field_doctor_administrative_data_image_small
+msgid "Small-sized image of this contact. It is automatically resized as a 64x64px image, with aspect ratio preserved. Use this field anywhere a small image is required."
+msgstr "Imagen de tamaño pequeño de este contacto. Se redimensiona automáticamente a 64x64 px, con el ratio de aspecto preservado. Use este campo donde se requiera una imagen pequeña."
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,civil_state:0
+msgid "Soltera/o"
+msgstr "Soltera/o"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,user_type:0
+msgid "Subsidiado"
+msgstr "Subsidiado"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,document_type:0
+msgid "TI - Identity Card"
+msgstr "TI - Identity Card"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,help:clinica_doctor_data.field_doctor_administrative_data_image
+msgid "This field holds the image used as avatar for this contact, limited to 1024x1024px"
+msgstr "Este campo contiene la imagen utilizada como avatar para este contacto, limitada a 1024x1024 px"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_document_type
+#: model:ir.ui.view,arch_db:clinica_doctor_data.doctor_administrative_data_form
+#: model:ir.ui.view,arch_db:clinica_doctor_data.view_doctor_administrative_data_filter
+msgid "Type of Document"
+msgstr "Tipo de Documento"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,accompany_relationship:0
+#: selection:doctor.administrative.data,responsible_relationship:0
+msgid "Uncle"
+msgstr "Tio"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_age_meassure_unit
+msgid "Unit of Measure of Age"
+msgstr "Unidad de Medida de la edad"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,civil_state:0
+msgid "Unión libre"
+msgstr "Unión libre"
+
+#. module: clinica_doctor_data
+#: model:ir.model.fields,field_description:clinica_doctor_data.field_doctor_administrative_data_user_type
+msgid "User Type"
+msgstr "Tipo de Usuario"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,primary_payer:0
+msgid "Usuario Particular"
+msgstr "Usuario Particular"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,user_type:0
+msgid "Vinculado"
+msgstr "Vinculado"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,civil_state:0
+msgid "Viuda/o"
+msgstr "Viuda/o"
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:175
+#, python-format
+msgid "Warning!"
+msgstr "Warning!"
+
+#. module: clinica_doctor_data
+#: selection:doctor.administrative.data,age_meassure_unit:0
+msgid "Years"
+msgstr "Años"
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:213
+#, python-format
+msgid "You can choose 'AS' document only if the age is greater than 17 years."
+msgstr "You can choose 'AS' document only if the age is greater than 17 years."
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:211
+#, python-format
+msgid "You can only choose 'MS' document for age between 1 to 30 days."
+msgstr "You can only choose 'MS' document for age between 1 to 30 days."
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:205
+#, python-format
+msgid "You can only choose 'RC' or 'MS' documents, for age less than 1 month."
+msgstr "You can only choose 'RC' or 'MS' documents, for age less than 1 month."
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:209
+#, python-format
+msgid "You cannot choose 'CC', 'TI' or 'AS' document types for age less than 1 year."
+msgstr "You cannot choose 'CC', 'TI' or 'AS' document types for age less than 1 year."
+
+#. module: clinica_doctor_data
+#: code:addons/clinica_doctor_data/models/doctor_details.py:207
+#, python-format
+msgid "You cannot choose 'RC' or 'MS' document types for age greater than 17 years."
+msgstr "You cannot choose 'RC' or 'MS' document types for age greater than 17 years."
+
+#. module: clinica_doctor_data
+#: model:ir.model,name:clinica_doctor_data.model_assurance_plan
+msgid "assurance.plan"
+msgstr "assurance.plan"
+
+#. module: clinica_doctor_data
+#: model:ir.model,name:clinica_doctor_data.model_doctor_administrative_data
+msgid "doctor.administrative.data"
+msgstr "doctor.administrative.data"
+
+#. module: clinica_doctor_data
+#: model:ir.model,name:clinica_doctor_data.model_doctor_patient_occupation
+msgid "doctor.patient.occupation"
+msgstr "doctor.patient.occupation"
+
